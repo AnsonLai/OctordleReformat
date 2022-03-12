@@ -70,3 +70,7 @@ trs[3].remove();
 trs[2].remove();
 trs[1].remove();
 ```
+
+## YouTube
+
+This code was written for a YouTube audience.  Check out a the video here: [https://youtu.be/4vmpLEAmCw0](https://youtu.be/4vmpLEAmCw0)
